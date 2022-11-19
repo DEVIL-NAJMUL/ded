@@ -435,7 +435,7 @@ if len(sys.argv) == 2:
 		print(" [*] Instagram : https://instagram.com/ ")
 		print(" [*] YouTube   : https://youtube.com/ ")
 		exit(" [*] GitHub    : https://github.com/nayanvau")
-	else:
+	
 		Main()
 
 try:Main()
